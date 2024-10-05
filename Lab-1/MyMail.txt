@@ -1,5 +1,0 @@
-Hello, my name is John Doe and my email address is johndoe@example.com. I'm contacting
-you from XYZ Corporation (info@xyzcorp.com) regarding a potential collaboration with your 
-company. Our team lead, Jane Smith (jane.smith@xyzcorp.com), would like to schedule a meeting
-to discuss further. Please reply to this email or contact our support team at support@xyzcorp.com
-for more information. Thanks, and we look forward to hearing from you!  
