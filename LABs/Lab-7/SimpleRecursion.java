@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class SimpleRecursion {
+public class Simplerecursion {
 public static void AssenRecursion(int n){
     if (n<=0){
         return;
